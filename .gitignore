@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyCharm 
+# http://www.jetbrains.com/pycharm/webhelp/project.html 
+.idea 
+.iml  
+
+# VScode
+.vscode
+
 # C extensions
 *.so
 
